@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 CyberSecurity Projects/Studies:</h2>
 
-<h2> Certifications:</h2>
-
 - <b> Server structuring in Linux O.S: </b>
   
 - <b>Python</b>
   - <c> Tests and pratice with codes:
 - [Hello World!]
-- [
+- 
+
+<h2> Certifications:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
