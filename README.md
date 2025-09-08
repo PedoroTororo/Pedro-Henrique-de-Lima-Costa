@@ -11,7 +11,7 @@
 - [Guess the number](https://github.com/PedoroTororo/Guess-the-number/blob/main/README.md)
 
 <h2> Certifications:</h2>
-- in productions 😁
+- I’m working on it 😁
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -19,17 +19,11 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
 </a>
 
-<a href="https://www.instagram.com/pedro.henriqueee8" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" />
-</a>
-
-
-
 <h2>🙂About me:</h2>
 
 - 🌱 I’m currently learning: music
 - 🤔 I’m looking for help with: learn more about programming
 - 💬 Ask me about: all you want
-- 📫 How to reach me: on my linkedin, or my instagram
+- 📫 How to reach me: on my linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i´m colorblind
