@@ -6,7 +6,7 @@
   
 - <b>Python</b>
   - <c> Tests and pratice with codes:
-- [Hello World!] https://github.com/PedoroTororo/Hello-World/blob/main/README.md
+- [Hello World!](https://github.com/PedoroTororo/Hello-World/blob/main/README.md)
 - 
 
 <h2> Certifications:</h2>
