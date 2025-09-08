@@ -11,26 +11,25 @@
 - [Guess the number](https://github.com/PedoroTororo/Guess-the-number/blob/main/README.md)
 
 <h2> Certifications:</h2>
+- in productions 😁
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Pedro Henrique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Pedro Henrique | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/pedro-henrique-de-lima-costa-71a0b7289" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
+</a>
 
-[instagram]: https://www.instagram.com/pedro_henriqueee8
-[linkedin]: https://www.linkedin.com/in/pedro-henrique-de-lima-costa-71a0b7289
+<a href="https://www.instagram.com/pedro.henriqueee8" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" />
+</a>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🙂About me:</h2>
+
+- 🌱 I’m currently learning: music
+- 🤔 I’m looking for help with: learn more about programming
+- 💬 Ask me about: all you want
+- 📫 How to reach me: on my linkedin, or my instagram
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i´m colorblind
