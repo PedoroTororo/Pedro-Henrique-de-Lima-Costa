@@ -7,7 +7,7 @@
 - <b>Python</b>
   - <c> Tests and pratice with codes:
 - [Hello World!](https://github.com/PedoroTororo/Hello-World/blob/main/README.md)
-- [Guess the number](
+- [Guess the number](https://github.com/PedoroTororo/Guess-the-number/blob/main/README.md)
 
 <h2> Certifications:</h2>
 
